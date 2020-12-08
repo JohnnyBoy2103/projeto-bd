@@ -1,0 +1,136 @@
+html {
+  background: #FAF8F8;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+.title-1 {
+
+  position: absolute;
+  width: 116px;
+  height: 25px;
+  left: 235px;
+  top: 101px;
+
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  /* identical to box height */
+
+  color: #B9BDD0;
+}
+
+.title-2 {
+  /* DAGA */
+  position: absolute;
+  width: 500px;
+  height: 55px;
+  left: 235px;
+  top: 117px;
+
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 55px;
+  /* identical to box height */
+
+
+  color: #B9BDD0;
+}
+
+.week-day {
+  position: absolute;
+  width: 68px;
+  height: 41px;
+  left: 656px;
+  top: 92px;
+
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 41px;
+  /* identical to box height */
+
+
+  color: #B9BDD0;
+}
+
+.month-day {
+  position: absolute;
+  width: 83px;
+  height: 41px;
+  left: 656px;
+  top: 126px;
+
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 41px;
+  /* identical to box height */
+
+  letter-spacing: -0.1em;
+
+  color: #B9BDD0;
+}
+
+.img-gotas {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  left: 603px;
+  top: 117px;
+}
+
+.text1 {
+  /* DAGA */
+  position: absolute;
+  width: 700px;
+  height: 55px;
+  left: 235px;
+  top: 197px;
+
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 55px;
+  /* identical to box height */
+
+  color: #B9BDD0;
+}
+
+.position-dropdown {
+  position: absolute;
+  left: 235px;
+  top: 247px;
+}
+
+.table-position {
+  position: absolute;
+  left: 235px;
+  top: 350px;
+
+  width: 1000px;
+}
+
+.table {
+  width: 100%;
+}
+
+.buttons {
+  position: absolute;
+
+  left: 935px;
+  top: 247px;
+}
+
+.text-box {
+  position: absolute;
+  left: 235px;
+  top: 297px;
+}
